@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main(){
     int num,result,shift;
-    scanf("%d %d",&a,&b);
+    scanf("%d %d",&num,&shift);
     result = num>>shift;
-    printf("%d",num,result,shift);
+    printf("%d", num,shift,result);
     
     return o;
 
