@@ -5,8 +5,8 @@ int main(){
     if(a>b){
         printf("%d",a);
     }
-    else{
-        printf("%d"b);
+    else(a<b){
+        printf("%d",b);
     }
     return 0;
 
