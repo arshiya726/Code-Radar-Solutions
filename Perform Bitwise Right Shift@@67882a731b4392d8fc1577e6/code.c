@@ -2,7 +2,7 @@
 int main(){
     int num,result,shift;
     scanf("%d %d",&a,&b);
-    result=num>>shift;
+    result=num<<shift;
     printf("%d",result);
     
     return o;
