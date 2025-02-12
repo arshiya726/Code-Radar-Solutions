@@ -13,5 +13,6 @@ int main(){
     else{
         printf("Special Character");
     }
+    return o;
 
 }
