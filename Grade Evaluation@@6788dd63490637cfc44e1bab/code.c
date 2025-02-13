@@ -1,20 +1,20 @@
 #include<stdio.h>
 int main(){
-    char a;
-    scanf("%c",&ch);
-    if(a==grade'A'){
+    char grade;
+    scanf("%c",&grade);
+    if(grade=='A'){
         printf("Excellent");
     }
-    else if(a==grade'B'){
+    else if(grade=='B'){
         printf("Good");
     }
-    else if(a==grade'C'){
+    else if(grade=='C'){
         printf("Average");
     }
-    else if(a==grade'D'){
+    else if(grade=='D'){
         printf("Below Average");
     }
-    else if(a==grade'F'){
+    else if(grade=='F'){
         printf("Fail");
     }
     else{
