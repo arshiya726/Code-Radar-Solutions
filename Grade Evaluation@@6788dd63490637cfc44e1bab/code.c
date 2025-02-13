@@ -6,16 +6,16 @@ int main(){
         printf("Excellent");
     }
     else if(a==grade'B'){
-        prinitf("Good");
+        printf("Good");
     }
     else if(a==grade'C'){
-        prinitf("Average");
+        printf("Average");
     }
     else if(a==grade'D'){
-        prinitf("Below Average");
+        printf("Below Average");
     }
     else if(a==grade'F'){
-        prinitf("Fail");
+        printf("Fail");
     }
     else{
         printf("Invalid error");
