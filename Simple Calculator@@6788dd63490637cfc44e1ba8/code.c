@@ -2,7 +2,7 @@
 int main(){
     int a,b,result;
     char operator;
-    scanf("%d %d %d"&a,&b,&result);
+    scanf("%d %d %c"&a,&b,&result);
     if(operator = ='+'){
         result=a+b;
         printf("%d",result);
