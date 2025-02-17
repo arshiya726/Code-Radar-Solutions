@@ -1,1 +1,1 @@
-[{"index":8,"id":"67b0eb4a17930522cbe25a16","title":"C programming language classification","correctAnswer":"procedure oriented","selectedOption":"procedure oriented","isCorrect":true,"type":"MCQ"}]
+[{"index":8,"id":"67b0eb4a17930522cbe25a16","title":"C programming language classification","correctAnswer":"procedure oriented","selectedOption":"procedure oriented","isCorrect":true,"type":"MCQ"},{"index":9,"id":"67b0eb4a17930522cbe25a17","title":"Invalid special symbol in C","correctAnswer":"$","selectedOption":"$","isCorrect":true,"type":"MCQ"}]
