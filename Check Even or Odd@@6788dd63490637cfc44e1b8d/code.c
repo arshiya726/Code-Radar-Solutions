@@ -6,9 +6,8 @@ int main(){
         printf("Even");
     }
     else{
-        printf("Odd");
+        printf("False");
     }
     return 0;
 
 }
-
