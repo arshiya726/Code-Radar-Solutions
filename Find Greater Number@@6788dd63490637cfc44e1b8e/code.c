@@ -3,13 +3,13 @@ int main(){
     int a,b;
     scanf("%d %d",&a,&b);
     if(a>b){
-        printf(" a is greater");
+        printf(" a is greater\n");
     }
-    else if(a<b){
-        printf("b is greater");
+    else if(b>a){
+        printf("b is greater\n");
     }
     else{
-        printf("both are equal");
+        printf("both are equal\n");
     }
     return 0;
 
