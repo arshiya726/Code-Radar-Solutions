@@ -3,10 +3,10 @@ int main(){
     char a[20];
     int b;
     char c[20];
-    scanf("%c %d %c",&a,&b,&c);
-    printf("Name: %c",Name);
-    printf("Age: %d",Age);
-    printf("Hobby: %c",Hobby);
+    scanf("%s %d %s",a,&b,c);
+    printf("Name: %s\n",a);
+    printf("Age: %d\n",b);
+    printf("Hobby: %s\n",c);
     return 0;
 
 }
